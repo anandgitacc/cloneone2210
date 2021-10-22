@@ -14,7 +14,13 @@ private void empName() {
 	
 	private void empid() {
 		System.out.println("one");
+//>>>>>>> 9fbe4b75db436ef32178fc48d825b3795f2db3a0
 	}
+//<<<<<<< HEAD   // recent push cod siva code
+	private void empref() {
+		System.out.println("two");}
+//======= // anand push code
+	
 	
 	public static void main(String[] args) {
 		
